@@ -1,6 +1,0 @@
-nasa-api@VCfngVuLZTrBzD0n
-mongodb+srv://nasa-api:<password>@nasacluster.f8wri.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
-
-
-969370246481-6c8f3mvjs013ckfvvjmhas7ro14janma.apps.googleusercontent.com
-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

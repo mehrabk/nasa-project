@@ -14,10 +14,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.27.2",
     "cors": "^2.8.5",
     "csv-parse": "^5.0.4",
     "dotenv": "^16.0.1",
     "express": "^4.17.3",
+    "mongoose": "^6.3.8",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.15",
     "pm2": "^5.2.0"
